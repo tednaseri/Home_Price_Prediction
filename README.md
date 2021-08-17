@@ -24,4 +24,4 @@ To run this project after downloading the dataset, the provided files should be 
 The dataset for this project can be download from this link: https://www.kaggle.com/anthonypino/melbourne-housing-market
 
 # More Details:
-More details is provided in my personal website at https://www.tednaseri.com/home_price
+<p>More details is provided in my personal website at https://www.tednaseri.com/home_prices</p>
